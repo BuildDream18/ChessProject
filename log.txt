@@ -1,0 +1,322 @@
+13/05/21 17:21:28: Game started
+13/05/21 17:21:29: Move From x:5, Y:6 to x:5, Y:4
+13/05/21 17:21:31: Move From x:5, Y:1 to x:5, Y:3
+13/05/21 17:21:52: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 17:22:02: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 17:22:12: Move From x:4, Y:4 to x:5, Y:3
+13/05/21 18:01:58: Game started
+13/05/21 18:02:00: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 18:02:02: Move From x:4, Y:1 to x:4, Y:3
+13/05/21 18:04:20: Move From x:3, Y:4 to x:4, Y:3
+13/05/21 20:50:36: Game started
+13/05/21 20:50:41: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 20:52:04: Game started
+13/05/21 20:52:10: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 20:53:14: Game started
+13/05/21 20:54:24: Game started
+13/05/21 20:54:29: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 20:54:36: Move From x:5, Y:1 to x:5, Y:3
+13/05/21 20:54:42: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 20:54:46: Move From x:6, Y:1 to x:6, Y:3
+13/05/21 20:54:47: Move From x:4, Y:4 to x:5, Y:3
+13/05/21 20:54:48: Move From x:6, Y:3 to x:6, Y:4
+13/05/21 20:54:51: Move From x:5, Y:6 to x:5, Y:4
+13/05/21 20:54:53: Move From x:6, Y:4 to x:5, Y:5
+13/05/21 20:54:55: Move From x:6, Y:6 to x:6, Y:4
+13/05/21 20:54:56: Move From x:5, Y:5 to x:5, Y:6
+13/05/21 20:55:00: Move From x:4, Y:7 to x:3, Y:6
+13/05/21 20:55:03: Move From x:5, Y:6 to x:6, Y:7
+13/05/21 20:55:11: Move From x:5, Y:7 to x:0, Y:2
+13/05/21 20:55:13: Move From x:6, Y:7 to x:3, Y:7
+13/05/21 20:55:16: Move From x:3, Y:6 to x:4, Y:5
+13/05/21 20:55:18: Move From x:3, Y:7 to x:2, Y:6
+13/05/21 20:55:19: Move From x:2, Y:7 to x:3, Y:6
+13/05/21 20:55:21: Move From x:2, Y:6 to x:5, Y:3
+13/05/21 20:55:22: Move From x:6, Y:4 to x:6, Y:3
+13/05/21 20:55:24: Move From x:5, Y:3 to x:1, Y:7
+13/05/21 20:55:25: Move From x:1, Y:6 to x:1, Y:4
+13/05/21 20:55:27: Move From x:1, Y:7 to x:7, Y:7
+13/05/21 20:55:28: Move From x:0, Y:7 to x:7, Y:7
+13/05/21 20:55:32: Move From x:4, Y:0 to x:5, Y:1
+13/05/21 20:55:34: Move From x:4, Y:5 to x:5, Y:4
+13/05/21 20:55:35: Move From x:3, Y:1 to x:3, Y:3
+13/05/21 20:55:37: Move From x:3, Y:6 to x:4, Y:5
+13/05/21 20:55:40: Move From x:4, Y:1 to x:4, Y:3
+13/05/21 20:55:41: Move From x:5, Y:4 to x:4, Y:3
+13/05/21 20:55:46: Move From x:3, Y:0 to x:6, Y:3
+13/05/21 20:57:07: Game started
+13/05/21 20:57:25: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 21:01:47: Game started
+13/05/21 21:09:35: Game started
+13/05/21 21:09:36: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 21:11:01: Game started
+13/05/21 21:11:02: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:12:57: Game started
+13/05/21 21:12:58: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 21:15:53: Game started
+13/05/21 21:15:54: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:16:19: Game started
+13/05/21 21:16:20: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:16:48: Game started
+13/05/21 21:16:48: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:17:18: Game started
+13/05/21 21:17:20: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:20:57: Game started
+13/05/21 21:21:02: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:21:27: Game started
+13/05/21 21:21:52: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:25:22: Game started
+13/05/21 21:25:22: Move From x:2, Y:6 to x:2, Y:4
+13/05/21 21:55:12: Game started
+13/05/21 21:55:16: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:55:48: Move From x:6, Y:1 to x:6, Y:2
+13/05/21 21:56:10: Game started
+13/05/21 21:56:11: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:57:53: Game started
+13/05/21 21:57:54: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 21:58:06: Move From x:0, Y:1 to x:0, Y:2
+13/05/21 21:58:09: Move From x:5, Y:6 to x:5, Y:4
+13/05/21 21:58:09: Move From x:2, Y:1 to x:2, Y:2
+13/05/21 21:58:10: Move From x:6, Y:6 to x:6, Y:4
+13/05/21 21:58:10: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 21:58:12: Move From x:2, Y:6 to x:2, Y:4
+13/05/21 21:58:12: Move From x:0, Y:1 to x:0, Y:0
+13/05/21 21:58:13: Move From x:1, Y:6 to x:1, Y:4
+13/05/21 21:58:13: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 21:58:14: Move From x:2, Y:7 to x:4, Y:5
+13/05/21 21:58:14: Move From x:0, Y:1 to x:0, Y:0
+13/05/21 21:58:16: Move From x:5, Y:7 to x:7, Y:5
+13/05/21 21:58:16: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 21:58:17: Move From x:3, Y:7 to x:0, Y:4
+13/05/21 21:58:17: Move From x:4, Y:1 to x:4, Y:2
+13/05/21 21:58:19: Move From x:2, Y:4 to x:2, Y:3
+13/05/21 21:58:19: Move From x:3, Y:0 to x:4, Y:1
+13/05/21 21:58:21: Move From x:3, Y:4 to x:3, Y:3
+13/05/21 21:58:21: Move From x:3, Y:1 to x:3, Y:2
+13/05/21 21:58:22: Move From x:3, Y:3 to x:4, Y:2
+13/05/21 21:58:22: Move From x:6, Y:1 to x:6, Y:2
+13/05/21 21:58:23: Move From x:5, Y:4 to x:5, Y:3
+13/05/21 21:58:23: Move From x:6, Y:2 to x:5, Y:3
+13/05/21 21:58:25: Move From x:4, Y:5 to x:7, Y:2
+13/05/21 21:58:25: Move From x:4, Y:1 to x:5, Y:2
+13/05/21 21:58:26: Move From x:6, Y:4 to x:5, Y:3
+13/05/21 21:58:26: Move From x:0, Y:1 to x:0, Y:0
+13/05/21 21:58:28: Move From x:1, Y:7 to x:2, Y:5
+13/05/21 21:58:28: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 21:58:29: Move From x:0, Y:7 to x:3, Y:7
+13/05/21 21:58:29: Move From x:0, Y:1 to x:0, Y:0
+13/05/21 21:58:31: Move From x:4, Y:7 to x:5, Y:6
+13/05/21 21:58:31: Move From x:5, Y:2 to x:4, Y:3
+13/05/21 21:58:32: Move From x:7, Y:5 to x:6, Y:4
+13/05/21 21:58:32: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 21:58:35: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 21:58:35: Move From x:0, Y:1 to x:0, Y:0
+13/05/21 21:58:37: Move From x:2, Y:3 to x:3, Y:2
+13/05/21 21:58:37: Move From x:5, Y:1 to x:5, Y:2
+13/05/21 21:58:39: Move From x:4, Y:2 to x:4, Y:1
+13/05/21 21:58:39: Move From x:1, Y:1 to x:1, Y:2
+13/05/21 21:58:40: Move From x:3, Y:2 to x:3, Y:1
+13/05/21 21:58:40: Move From x:2, Y:0 to x:3, Y:1
+13/05/21 21:58:42: Move From x:4, Y:1 to x:5, Y:0
+13/05/21 22:00:07: Game started
+13/05/21 22:00:08: Move From x:4, Y:6 to x:4, Y:4
+13/05/21 22:00:08: Move From x:0, Y:1 to x:0, Y:3
+13/05/21 22:00:10: Move From x:2, Y:6 to x:2, Y:4
+13/05/21 22:00:10: Move From x:1, Y:0 to x:2, Y:2
+13/05/21 22:00:12: Move From x:3, Y:6 to x:3, Y:4
+13/05/21 22:00:12: Move From x:0, Y:0 to x:0, Y:1
+13/05/21 22:00:14: Move From x:3, Y:7 to x:7, Y:3
+13/05/21 22:00:14: Move From x:2, Y:2 to x:1, Y:0
+13/05/21 22:00:15: Move From x:7, Y:3 to x:5, Y:1
+13/05/21 22:00:15: Move From x:4, Y:0 to x:5, Y:1
+13/05/21 22:00:16: Move From x:4, Y:4 to x:4, Y:3
+13/05/21 22:00:16: Move From x:6, Y:1 to x:6, Y:3
+13/05/21 22:00:18: Move From x:4, Y:7 to x:3, Y:6
+13/05/21 22:00:18: Move From x:5, Y:1 to x:6, Y:1
+13/05/21 22:00:20: Move From x:1, Y:7 to x:2, Y:5
+13/05/21 22:00:20: Move From x:1, Y:0 to x:0, Y:2
+13/05/21 22:00:21: Move From x:2, Y:5 to x:3, Y:3
+13/05/21 22:00:21: Move From x:0, Y:2 to x:2, Y:3
+13/05/21 22:00:23: Move From x:3, Y:3 to x:2, Y:1
+13/05/21 22:00:23: Move From x:4, Y:1 to x:4, Y:2
+13/05/21 22:00:25: Move From x:3, Y:4 to x:2, Y:3
+13/05/21 22:00:25: Move From x:3, Y:0 to x:5, Y:2
+13/05/21 22:00:26: Move From x:4, Y:3 to x:5, Y:2
+13/05/21 22:00:26: Move From x:6, Y:1 to x:6, Y:2
+13/05/21 22:00:28: Move From x:5, Y:2 to x:5, Y:1
+13/05/21 22:00:28: Move From x:6, Y:0 to x:4, Y:1
+13/05/21 22:00:32: Move From x:6, Y:7 to x:7, Y:5
+13/05/21 22:00:32: Move From x:3, Y:1 to x:3, Y:2
+13/05/21 22:00:34: Move From x:6, Y:6 to x:6, Y:4
+13/05/21 22:00:34: Move From x:0, Y:3 to x:0, Y:4
+13/05/21 22:00:35: Move From x:7, Y:7 to x:6, Y:7
+13/05/21 22:00:35: Move From x:4, Y:1 to x:5, Y:3
+13/05/21 22:00:36: Move From x:6, Y:7 to x:6, Y:5
+13/05/21 22:00:36: Move From x:5, Y:0 to x:4, Y:1
+13/05/21 22:00:37: Move From x:6, Y:4 to x:5, Y:3
+13/05/21 22:00:37: Move From x:6, Y:2 to x:5, Y:3
+13/05/21 22:00:38: Move From x:6, Y:5 to x:6, Y:3
+13/05/21 22:00:38: Move From x:5, Y:3 to x:5, Y:2
+13/05/21 22:00:40: Move From x:6, Y:3 to x:6, Y:0
+13/05/21 22:00:40: Move From x:3, Y:2 to x:3, Y:3
+13/05/21 22:00:42: Move From x:6, Y:0 to x:2, Y:0
+13/05/21 22:00:42: Move From x:4, Y:1 to x:3, Y:2
+13/05/21 22:00:43: Move From x:2, Y:0 to x:7, Y:0
+13/05/21 22:00:43: Move From x:0, Y:4 to x:0, Y:5
+13/05/21 22:00:45: Move From x:1, Y:6 to x:0, Y:5
+13/05/21 22:00:45: Move From x:3, Y:2 to x:2, Y:3
+13/05/21 22:00:46: Move From x:2, Y:4 to x:3, Y:3
+13/05/21 22:00:46: Move From x:2, Y:3 to x:0, Y:5
+13/05/21 22:00:48: Move From x:0, Y:7 to x:1, Y:7
+13/05/21 22:00:48: Move From x:1, Y:1 to x:1, Y:3
+13/05/21 22:00:50: Move From x:1, Y:7 to x:1, Y:3
+13/05/21 22:00:50: Move From x:5, Y:2 to x:6, Y:1
+13/05/21 22:00:51: Move From x:7, Y:0 to x:6, Y:0
+13/05/21 22:00:51: Move From x:6, Y:1 to x:5, Y:1
+13/05/21 22:00:53: Move From x:6, Y:0 to x:5, Y:0
+13/05/21 22:00:53: Move From x:5, Y:1 to x:6, Y:2
+13/05/21 22:00:55: Move From x:7, Y:5 to x:5, Y:4
+13/05/21 22:00:55: Move From x:6, Y:2 to x:6, Y:1
+13/05/21 22:00:56: Move From x:5, Y:4 to x:4, Y:2
+13/05/21 22:00:56: Move From x:6, Y:1 to x:6, Y:2
+13/05/21 22:00:58: Move From x:3, Y:6 to x:4, Y:5
+13/05/21 22:00:58: Move From x:0, Y:5 to x:1, Y:4
+13/05/21 22:00:59: Move From x:2, Y:7 to x:3, Y:6
+13/05/21 22:00:59: Move From x:1, Y:4 to x:2, Y:5
+13/05/21 22:01:00: Move From x:3, Y:6 to x:2, Y:5
+13/05/21 22:01:00: Move From x:0, Y:1 to x:2, Y:1
+13/05/21 22:01:01: Move From x:2, Y:5 to x:3, Y:4
+13/05/21 22:01:01: Move From x:2, Y:1 to x:6, Y:1
+13/05/21 22:01:04: Move From x:4, Y:2 to x:6, Y:1
+13/05/21 22:01:04: Move From x:6, Y:2 to x:6, Y:3
+13/05/21 22:01:05: Move From x:6, Y:1 to x:4, Y:2
+13/05/21 22:01:05: Move From x:6, Y:3 to x:6, Y:2
+13/05/21 22:01:07: Move From x:5, Y:0 to x:6, Y:0
+13/05/21 22:01:07: Move From x:6, Y:2 to x:5, Y:3
+13/05/21 22:01:09: Move From x:4, Y:2 to x:6, Y:1
+13/05/21 22:01:09: Move From x:5, Y:3 to x:6, Y:4
+13/05/21 22:01:10: Move From x:5, Y:6 to x:5, Y:5
+13/05/21 22:01:10: Move From x:6, Y:4 to x:6, Y:3
+13/05/21 22:01:12: Move From x:7, Y:6 to x:7, Y:4
+13/05/21 22:01:12: Move From x:6, Y:3 to x:6, Y:2
+13/05/21 22:01:14: Move From x:6, Y:1 to x:4, Y:2
+13/05/21 22:01:14: Move From x:6, Y:2 to x:5, Y:1
+13/05/21 22:01:15: Move From x:6, Y:0 to x:6, Y:2
+13/05/21 22:01:15: Move From x:5, Y:1 to x:4, Y:0
+13/05/21 22:01:16: Move From x:4, Y:2 to x:2, Y:1
+13/05/21 22:01:16: Move From x:4, Y:0 to x:5, Y:0
+13/05/21 22:01:17: Move From x:6, Y:2 to x:5, Y:2
+13/05/21 22:01:17: Move From x:5, Y:0 to x:6, Y:0
+13/05/21 22:01:19: Move From x:3, Y:4 to x:4, Y:3
+13/05/21 22:01:19: Move From x:6, Y:0 to x:6, Y:1
+13/05/21 22:01:20: Move From x:3, Y:3 to x:3, Y:2
+13/05/21 22:01:20: Move From x:6, Y:1 to x:6, Y:0
+13/05/21 22:01:21: Move From x:5, Y:2 to x:6, Y:2
+13/05/21 22:01:21: Move From x:6, Y:0 to x:5, Y:0
+13/05/21 22:01:23: Move From x:4, Y:3 to x:6, Y:1
+13/05/21 22:01:23: Move From x:5, Y:0 to x:5, Y:1
+13/05/21 22:01:25: Move From x:2, Y:1 to x:4, Y:0
+13/05/21 22:01:25: Move From x:5, Y:1 to x:4, Y:0
+13/05/21 22:01:26: Move From x:3, Y:2 to x:3, Y:1
+13/05/21 22:01:26: Move From x:4, Y:0 to x:3, Y:1
+13/05/21 22:01:27: Move From x:4, Y:5 to x:3, Y:4
+13/05/21 22:01:27: Move From x:3, Y:1 to x:4, Y:1
+13/05/21 22:01:28: Move From x:1, Y:3 to x:1, Y:1
+13/05/21 22:01:28: Move From x:4, Y:1 to x:4, Y:0
+13/05/21 22:01:30: Move From x:6, Y:2 to x:5, Y:2
+13/05/21 22:01:30: Move From x:4, Y:0 to x:3, Y:0
+13/05/21 22:01:31: Move From x:5, Y:2 to x:3, Y:2
+13/05/21 22:01:31: Move From x:3, Y:0 to x:4, Y:0
+13/05/21 22:01:32: Move From x:1, Y:1 to x:1, Y:0
+13/05/21 22:01:32: Move From x:4, Y:0 to x:5, Y:1
+13/05/21 22:01:49: Game Stoped.
+13/05/21 22:02:09: Game started
+14/05/21 19:24:19: Game started
+14/05/21 19:24:21: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 19:24:21: Move From x:6, Y:1 to x:6, Y:2
+14/05/21 19:24:22: Move From x:4, Y:6 to x:4, Y:4
+14/05/21 19:24:22: Move From x:0, Y:1 to x:0, Y:3
+14/05/21 19:24:23: Move From x:5, Y:6 to x:5, Y:4
+14/05/21 19:24:23: Move From x:1, Y:0 to x:2, Y:2
+14/05/21 19:24:24: Move From x:6, Y:6 to x:6, Y:4
+14/05/21 19:24:24: Move From x:0, Y:3 to x:0, Y:4
+14/05/21 19:24:25: Move From x:3, Y:6 to x:3, Y:4
+14/05/21 19:24:25: Move From x:0, Y:0 to x:0, Y:3
+14/05/21 19:24:26: Move From x:2, Y:4 to x:2, Y:3
+14/05/21 19:24:26: Move From x:0, Y:4 to x:0, Y:5
+14/05/21 19:24:27: Move From x:1, Y:6 to x:0, Y:5
+14/05/21 19:24:27: Move From x:0, Y:3 to x:0, Y:1
+14/05/21 19:40:25: Game started
+14/05/21 19:40:26: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 19:40:27: Move From x:4, Y:1 to x:4, Y:3
+14/05/21 19:40:31: Move From x:3, Y:6 to x:3, Y:4
+14/05/21 19:42:03: Game started
+14/05/21 19:42:04: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 19:42:04: Move From x:1, Y:1 to x:1, Y:2
+14/05/21 19:42:06: Move From x:4, Y:6 to x:4, Y:4
+14/05/21 19:42:06: Move From x:6, Y:1 to x:6, Y:2
+14/05/21 19:42:18: Game started
+14/05/21 19:42:18: Move From x:4, Y:6 to x:4, Y:4
+14/05/21 19:42:20: Move From x:6, Y:1 to x:6, Y:3
+14/05/21 19:42:22: Move From x:2, Y:6 to x:2, Y:5
+14/05/21 19:42:23: Move From x:2, Y:1 to x:2, Y:2
+14/05/21 19:42:25: Game Stoped.
+14/05/21 19:42:28: Game started
+14/05/21 19:42:30: Move From x:4, Y:4 to x:4, Y:3
+14/05/21 19:42:30: Move From x:1, Y:1 to x:1, Y:3
+14/05/21 19:42:31: Move From x:3, Y:6 to x:3, Y:4
+14/05/21 19:42:31: Move From x:5, Y:0 to x:6, Y:1
+14/05/21 19:42:33: Move From x:0, Y:6 to x:0, Y:4
+14/05/21 19:42:33: Move From x:6, Y:1 to x:4, Y:3
+14/05/21 22:38:15: Game started
+14/05/21 22:38:16: Move From x:4, Y:6 to x:4, Y:5
+14/05/21 22:38:19: Move From x:5, Y:1 to x:5, Y:3
+14/05/21 22:38:23: Move From x:6, Y:7 to x:5, Y:5
+14/05/21 22:38:25: Move From x:6, Y:1 to x:6, Y:3
+14/05/21 22:38:30: Game Stoped.
+14/05/21 22:38:42: Game started
+14/05/21 22:38:43: Move From x:4, Y:5 to x:4, Y:4
+14/05/21 22:38:43: Move From x:5, Y:3 to x:4, Y:4
+14/05/21 22:39:14: Game started
+14/05/21 22:39:16: Move From x:1, Y:6 to x:1, Y:4
+14/05/21 22:39:23: Move From x:3, Y:1 to x:3, Y:3
+14/05/21 22:39:25: Game Stoped.
+14/05/21 22:39:31: Game started
+14/05/21 22:39:32: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 22:39:32: Move From x:2, Y:0 to x:3, Y:1
+14/05/21 22:39:37: Move From x:3, Y:6 to x:3, Y:4
+14/05/21 22:39:37: Move From x:3, Y:0 to x:2, Y:0
+14/05/21 22:41:34: Game started
+14/05/21 22:41:36: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 22:41:39: Move From x:2, Y:1 to x:2, Y:3
+14/05/21 22:41:56: Move From x:3, Y:1 to x:3, Y:3
+14/05/21 22:41:59: Move From x:3, Y:6 to x:3, Y:5
+14/05/21 22:42:02: Game Stoped.
+14/05/21 22:42:07: Game started
+14/05/21 22:42:14: Game started
+14/05/21 22:42:17: Move From x:4, Y:6 to x:4, Y:4
+14/05/21 22:42:17: Move From x:3, Y:3 to x:4, Y:4
+14/05/21 22:42:19: Move From x:3, Y:5 to x:4, Y:4
+14/05/21 22:42:19: Move From x:1, Y:0 to x:0, Y:2
+14/05/21 22:42:54: Game started
+14/05/21 22:42:55: Move From x:4, Y:6 to x:4, Y:4
+14/05/21 22:42:55: Move From x:5, Y:1 to x:5, Y:3
+14/05/21 22:42:56: Move From x:2, Y:6 to x:2, Y:4
+14/05/21 22:42:56: Move From x:6, Y:1 to x:6, Y:2
+14/05/21 22:43:03: Game Stoped.
+14/05/21 22:43:07: Game started
+14/05/21 22:43:08: Move From x:4, Y:4 to x:5, Y:3
+14/05/21 22:43:10: Move From x:6, Y:2 to x:5, Y:3
+14/05/21 22:43:14: Game Stoped.
+14/05/21 22:43:19: Game started
+14/05/21 22:43:20: Move From x:5, Y:6 to x:5, Y:4
+14/05/21 22:43:20: Move From x:0, Y:1 to x:0, Y:3
+14/05/21 22:43:22: Move From x:2, Y:4 to x:2, Y:3
+14/05/21 22:43:22: Move From x:3, Y:1 to x:3, Y:3
+14/05/21 22:43:26: Move From x:3, Y:6 to x:3, Y:4
+14/05/21 22:43:26: Move From x:1, Y:0 to x:0, Y:2
+14/05/21 22:43:30: Move From x:6, Y:6 to x:6, Y:4
+14/05/21 22:43:30: Move From x:1, Y:1 to x:1, Y:2
+14/05/21 22:43:33: Move From x:5, Y:7 to x:0, Y:2
+14/05/21 22:43:33: Move From x:4, Y:0 to x:5, Y:1
+14/05/21 22:43:38: Game Stoped.

@@ -1,0 +1,10 @@
+src.AllPieces$Knight
+src.AllPieces$Bishop
+src.AllPieces$King
+src.AllPieces$Queen
+src.AllPieces$Piece
+src.AllPieces
+src.AllPieces$Pawn
+src.AllPieces$HostValidate
+src.AllPieces$Rook
+src.AllPieces$MovingValid
